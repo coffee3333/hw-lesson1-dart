@@ -1,0 +1,3 @@
+class CryptoCurrencyConvertor {
+  void getData() {}
+}
